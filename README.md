@@ -10,7 +10,7 @@
     * Multiple-Choice Exam
 
 ## Summary
-* Financial Operations (FinOps) follows a lifecycle of activities, practised by individuals, who follow a set of principles while leveraging specific tools and speaking a particular language.
+* Finance and DevOps (FinOps) follows a lifecycle of activities, practised by individuals, who follow a set of principles while leveraging specific tools and speaking a particular language.
 
 
 ## Attribution
