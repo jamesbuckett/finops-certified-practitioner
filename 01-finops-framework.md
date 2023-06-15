@@ -21,7 +21,7 @@ If you have a software development background the FinOps Framework is similar to
 
 | Domain | | 
 | --- | --- | 
-| FinOps LifeCycle | *lifecycle* |
+| FinOps Phases | *lifecycle* |
 | FinOps Personas | *individuals* |
 | FinOps Principals | *principals* | 
 | FinOps Domains | *activities* |

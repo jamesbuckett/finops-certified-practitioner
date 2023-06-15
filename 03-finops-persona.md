@@ -1,7 +1,7 @@
 # [FinOps Personas](https://www.finops.org/framework/personas/)
 
 ## Summary
-* Financial Operations (FinOps) follows a lifecycle of activities practiced by [**individuals**](https://www.mindmeister.com/2757652925/03-finops-teams-motivation) who follow a set of principles while leveraging certain tools and speaking a particular language.
+* Finance and DevOps (FinOps) follows a lifecycle of activities practiced by [**individuals**](https://www.mindmeister.com/2757652925/03-finops-teams-motivation) who follow a set of principles while leveraging certain tools and speaking a particular language.
 <br>
 
 
