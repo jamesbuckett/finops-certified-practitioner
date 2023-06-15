@@ -1,6 +1,11 @@
 # FinOps Certified Practitioner
 
-## Overview
+## Summary
+* Finance and DevOps (FinOps) follows a lifecycle of activities, practised by individuals, who follow a set of principles while leveraging specific tools and speaking a particular language.
+
+<details class="faq box"><summary>Overview</summary>
+<p>
+
 * The objective of this repository is to provide an overview of the [FinOps Certified Practitioner](https://training.linuxfoundation.org/certification/certified-finops/) certification:
     * Online
     * One hours
@@ -9,13 +14,16 @@
     * PDF Certificate and Digital Badge
     * Multiple-Choice Exam
 
-## Summary
-* Finance and DevOps (FinOps) follows a lifecycle of activities, practised by individuals, who follow a set of principles while leveraging specific tools and speaking a particular language.
+</p>
+</details>
 
+<details class="faq box"><summary>Attribution</summary>
+<p>
 
-## Attribution
 * Material sourced and unchanged from the [FinOps Framework](https://www.finops.org/introduction/what-is-finops/) by [FinOps Foundation](https://www.finops.org/about/) under the Attribution 4.0 International (CC BY 4.0) license.
 
+</p>
+</details>
 
 ## FinOps Certified Practitioner Schedule
 
