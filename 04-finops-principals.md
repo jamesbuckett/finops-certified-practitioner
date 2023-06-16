@@ -39,6 +39,8 @@
 
 ### FinOps data should be Accessible and timely
 
+<br>
+
 Next [FinOps Domains](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/05-finops-domains.md)
 <br>
 

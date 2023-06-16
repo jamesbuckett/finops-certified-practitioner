@@ -1,7 +1,7 @@
 # [FinOps Tools](https://www.finops.org/wg/multi-cloud-tools-and-terminology/)
 
 ## Summary
-* Financial Operations (FinOps) follows a lifecycle of activities practiced by individuals who follow a set of principles while leveraging certain [**tools**](https://www.mindmeister.com/2725174948/06-finops-tools) and speaking a particular language.
+* Finance and DevOps (FinOps) follows a lifecycle of activities practiced by individuals who follow a set of principles while leveraging certain [**tools**](https://www.mindmeister.com/2725174948/06-finops-tools) and speaking a particular language.
 
 ## Vendor Tools
 
