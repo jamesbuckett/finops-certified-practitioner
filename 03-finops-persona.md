@@ -33,16 +33,16 @@
 <br>
 
 ### Procurement
-    * Primary Goal: *Cloud platform relationship management*
-    * Procurement should have the following objectives in a FinOps organization
-        * Negotiate the best win-win cloud contract
-        * Exercise enterprise discount / volume commitment programs 
-        * Manage relationship with Cloud platform provider
+* Primary Goal: *Cloud platform relationship management*
+* Procurement should have the following objectives in a FinOps organization
+    * Negotiate the best win-win cloud contract
+    * Exercise enterprise discount / volume commitment programs 
+    * Manage relationship with Cloud platform provider
 <br>
 
 ### ITAM Leader / Practitioner
-    * Primary Goal: Ensure that all IT assets are being used to their fullest potential and that the organization is getting the best value for its investments in IT. 
-    Primary Goal: Also ensuring that the organization is fully compliant with all licensing and regulatory requirements. 
+* Primary Goal: Ensure that all IT assets are being used to their fullest potential and that the organization is getting the best value for its investments in IT. 
+* Primary Goal: Also ensuring that the organization is fully compliant with all licensing and regulatory requirements. 
 <br>
 
 Next [FinOps Principals](https://github.com/jamesbuckett/finops-certified-practitioner/blob/main/04-finops-principals.md)
