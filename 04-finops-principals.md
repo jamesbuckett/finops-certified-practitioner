@@ -1,9 +1,9 @@
 # [FinOps Principals](https://www.finops.org/framework/principles/)
 
 ## Summary
-* Financial Operations (FinOps) follows a lifecycle of activities practiced by individuals who follow a set of [**principles**](https://www.mindmeister.com/2727661067/04-finops-principles-ccovva) while leveraging certain tools and speaking a particular language.
+* Finance and DevOps (FinOps) follows a lifecycle of activities practiced by individuals who follow a set of [**principles**](https://www.mindmeister.com/2727661067/04-finops-principles-ccovva) while leveraging certain tools and speaking a particular language.
 
-## FinOps Principals (CCOVA)
+## FinOps Principals (CCOVVA)
 * Understand the principles of FinOps, the core values that drive the cloud financial movement.
 * FinOps Principles gives us what are called *North Stars* to help guide our activities in FinOps.
 <br>
