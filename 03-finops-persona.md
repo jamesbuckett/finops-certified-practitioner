@@ -16,7 +16,7 @@
 
 ### Executives
 * CEO - Primary Goal: Assurance that cloud investments are aligned with business objectives.
-* CTO / CIO - Primary Goal:*Leverage technology* to give the business a market and competitive *advantage*.
+* CTO / CIO - Primary Goal: *Leverage technology* to give the business a market and competitive *advantage*.
 * CFO - Primary Goal: Manage the cost of cloud utilization (among other costs across the org) and ensuring that money is wisely spent.
 <br>
 
